@@ -10,11 +10,11 @@ The goal of this repository is to:
 
 -  Learn Generative AI concepts from the ground up
 -  Understand Large Language Models (LLMs)
-- 💻 Practice with code examples and experiments
-- 🔍 Explore frameworks and tools used in modern AI
-- 🚀 Build a strong foundation for future AI projects
+- Practice with code examples and experiments
+-  Explore frameworks and tools used in modern AI
+-  Build a strong foundation for future AI projects
 
-## 🛠️ Topics I'm Learning
+##  Topics I'm Learning
 
 - Python for AI
 - Prompt Engineering
