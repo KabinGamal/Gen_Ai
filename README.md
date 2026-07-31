@@ -30,11 +30,11 @@ The goal of this repository is to:
 - Fine-tuning (Future)
 
 
-## 🎯 Current Status
+##  Current Status
 
-🚧 This repository is continuously evolving as I learn new concepts and technologies. I'll regularly update it with notes, experiments, and practical implementations.
+ This repository is continuously evolving as I learn new concepts and technologies. I'll regularly update it with notes, experiments, and practical implementations.
 
-## 🌱 Future Goals
+##  Future Goals
 
 - Build production-ready AI applications
 - Create intelligent AI assistants
@@ -42,14 +42,15 @@ The goal of this repository is to:
 - Work with multimodal AI
 - Deploy scalable Generative AI solutions
 
-## 🤝 Contributions
+##  Contributions
 
 Suggestions and learning resources are always welcome!
 
-## ⭐ Support
+##  Support
 
-If you find this repository useful or would like to follow my learning journey, consider giving it a ⭐.
+If you find this repository useful or would like to follow my learning journey, consider giving it a .
 
 ---
 
-**"Learning today, building the future with Generative AI."** 🚀
+**"Learning today, building the future with Generative AI."** 
+
