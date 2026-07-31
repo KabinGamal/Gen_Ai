@@ -15,7 +15,6 @@ The goal of this repository is to:
 -  Build a strong foundation for future AI projects
 
 ##  Topics I'm Learning
-
 - Python for AI
 - Prompt Engineering
 - Large Language Models (LLMs)
